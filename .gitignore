@@ -1,0 +1,23 @@
+# --- Python ---
+__pycache__/
+*.log
+
+# --- Flask ---
+instance/
+*.db-journal
+*.sqlite3-journal
+
+# --- SQLite ---
+*.sqlite
+*.sqlite3
+*.db*
+*.sql
+
+# --- Docs ---
+docs/
+
+# --- Others ---
+*.bat
+*.txt
+
+
